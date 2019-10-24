@@ -1,8 +1,8 @@
 # Ticket_Reservation_Java
 
 Objective:
-  Use a hashmap and hashtable to access and store various pieces of data
-  Create a comprehensive professional application
+  - Use a hashmap and hashtable to access and store various pieces of data
+  - Create a comprehensive professional application
   
  Problem:
   - Developing the backend for an online ticket reservation system
