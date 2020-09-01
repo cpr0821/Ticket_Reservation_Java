@@ -1,0 +1,6 @@
+  ABCDEFGHIJKLMNOPQRST
+1 A........ACCS......A
+2 S...AC...S.C....A..A
+3 ...S..S...A.A.....A.
+4 .A........C.A.....A.
+5 S..A..A..SCCS.A.S...
