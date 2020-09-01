@@ -14,3 +14,8 @@ Objective:
   - Ability to login and track customer orders
   - Customer can add, change, and cancel orders and see receipts for their orders
   - Also an administrative interface
+  
+  
+  **Notes:
+  
+  Usernames and passwords are in a DAT file
